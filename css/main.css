@@ -1,0 +1,24 @@
+.rang{
+    background-color: pink !important ;
+}
+.oo{
+    border-radius: 20px;
+}
+.nn{
+  border-bottom: 3px solid darkred;
+}
+.ww{
+    border-bottom: 3px solid darkorange;
+}
+.mm{
+    border-bottom: 3px solid rgb(4, 123, 123);
+}
+.gg{
+    border-bottom: 3px solid darkolivegreen;
+}
+.aa{
+    border-bottom: 3px solid darkblue;
+}
+.dd{
+    border-radius: 0;
+}
